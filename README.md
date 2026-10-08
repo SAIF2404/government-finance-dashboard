@@ -12,7 +12,7 @@ and the year-to-date totals.
 
 ## Yearly comparison page
 
-![Yearly comparison](Yearly-comparison.png)
+![Yearly comparison](Yearly%20Comparison.png)
 
 ## What the data shows
 
