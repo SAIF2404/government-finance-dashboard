@@ -5,14 +5,14 @@ payments and the underlying cash balance from 2020-21 onward.
 
 ## Overview page
 
-![Overview](overview.png)
+![Overview](Overview.png)
 
 Pick a financial year to see receipts and payments month by month,
 and the year-to-date totals.
 
 ## Yearly comparison page
 
-![Yearly comparison](yearly-comparison.png)
+![Yearly comparison](Yearly-comparison.png)
 
 ## What the data shows
 
